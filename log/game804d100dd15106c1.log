@@ -1,0 +1,35 @@
+Old GID: 020385f10ef15078
+Treatment: ('outer', 4662)
+[(2, 4), (2, 4), (4, 5), (0, 3), (0, 5), (4, 3), (3, 1), (1, 2), (1, 1), (1, 3), (4, 2), (2, 2), (3, 1), (3, 1), (4, 2), (4, 1), (3, 2), (1, 4), (4, 1), (2, 1), (3, 4), (0, 2), (1, 4), (0, 4), (0, 3), (2, 2), (0, 1), (0, 1), (1, 1), (4, 1), (2, 3), (3, 4), (3, 5), (1, 5), (0, 2), (1, 3), (0, 4), (3, 3), (1, 1), (2, 3)]
+MOVE: 0 0 None 1 0 None
+outer hints You about all their green cards hints remaining: 7
+You has red 3, green 1, white 1, red 4, blue 2
+MOVE: 1 2 1 1 None None
+You plays green 1 successfully! Board is now green 1, yellow 0, white 0, blue 0, red 0
+You now has red 3, white 1, red 4, blue 2, white 4
+MOVE: 0 0 None 1 2 None
+outer hints You about all their white cards hints remaining: 6
+You has red 3, white 1, red 4, blue 2, white 4
+MOVE: 1 1 None 0 None 1
+You hints outer about all their 1 hints remaining: 5
+outer has blue 3, red 4, yellow 2, white 1, white 5
+MOVE: 0 1 None 1 None 1
+outer hints You about all their 1 hints remaining: 4
+You has red 3, white 1, red 4, blue 2, white 4
+MOVE: 1 2 4 1 None None
+You plays white 4 and fails. Board was green 1, yellow 0, white 0, blue 0, red 0
+You now has red 3, white 1, red 4, blue 2, white 4
+MOVE: 0 1 None 1 None 4
+outer hints You about all their 4 hints remaining: 3
+You has red 3, white 1, red 4, blue 2, white 4
+MOVE: 1 2 4 1 None None
+You plays white 4 and fails. Board was green 1, yellow 0, white 0, blue 0, red 0
+You now has red 3, white 1, red 4, blue 2, red 5
+MOVE: 0 3 2 None None None
+outer discards yellow 2
+trash is now white 4, white 4, yellow 2
+outer now has blue 3, red 4, white 1, white 5, green 3
+MOVE: 1 2 4 1 None None
+You plays red 5 and fails. Board was green 1, yellow 0, white 0, blue 0, red 0
+You now has red 3, white 1, red 4, blue 2, green 5
+Score 1

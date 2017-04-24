@@ -1,0 +1,235 @@
+Old GID: 06fe4182f7138e90
+Treatment: ('intentional', 3264)
+[(0, 2), (3, 2), (3, 5), (4, 3), (2, 2), (1, 1), (0, 1), (0, 2), (3, 4), (4, 1), (1, 4), (2, 4), (1, 2), (0, 4), (1, 3), (0, 3), (2, 1), (4, 3), (2, 1), (4, 2), (2, 2), (1, 4), (1, 3), (1, 1), (4, 4), (4, 2), (4, 4), (0, 1), (4, 1), (1, 2), (2, 4), (2, 3), (2, 5), (1, 5), (3, 4), (4, 1), (2, 3), (0, 1), (0, 4), (3, 1)]
+MOVE: 0 1 None 1 None 1
+intentional hints You about all their 1 hints remaining: 7
+You has blue 1, blue 3, yellow 1, red 5, blue 1
+MOVE: 1 0 None 0 2 None
+You hints intentional about all their white cards hints remaining: 6
+intentional has blue 3, green 3, white 1, blue 2, green 5
+MOVE: 0 0 None 1 3 None
+intentional hints You about all their blue cards hints remaining: 5
+You has blue 1, blue 3, yellow 1, red 5, blue 1
+MOVE: 1 2 0 1 None None
+You plays blue 1 successfully! Board is now green 0, yellow 0, white 0, blue 1, red 0
+You now has blue 3, yellow 1, red 5, blue 1, green 2
+MOVE: 0 0 None 1 1 None
+intentional hints You about all their yellow cards hints remaining: 4
+You has blue 3, yellow 1, red 5, blue 1, green 2
+MOVE: 1 3 3 1 None None
+You discards blue 1
+trash is now blue 1
+You now has blue 3, yellow 1, red 5, green 2, blue 2
+MOVE: 0 3 0 None None None
+intentional discards blue 3
+trash is now blue 1, blue 3
+intentional now has green 3, white 1, blue 2, green 5, blue 5
+MOVE: 1 2 1 1 None None
+You plays yellow 1 successfully! Board is now green 0, yellow 1, white 0, blue 1, red 0
+You now has blue 3, red 5, green 2, blue 2, red 3
+MOVE: 0 3 4 None None None
+intentional discards blue 5
+trash is now blue 1, blue 3, blue 5
+intentional now has green 3, white 1, blue 2, green 5, white 2
+MOVE: 1 1 None 0 None 1
+You hints intentional about all their 1 hints remaining: 6
+intentional has green 3, white 1, blue 2, green 5, white 2
+MOVE: 0 2 1 None None None
+intentional plays white 1 successfully! Board is now green 0, yellow 1, white 1, blue 1, red 0
+intentional now has green 3, blue 2, green 5, white 2, yellow 1
+MOVE: 1 1 None 0 None 2
+You hints intentional about all their 2 hints remaining: 5
+intentional has green 3, blue 2, green 5, white 2, yellow 1
+MOVE: 0 3 4 None None None
+intentional discards yellow 1
+trash is now blue 1, blue 3, blue 5, yellow 1
+intentional now has green 3, blue 2, green 5, white 2, green 1
+MOVE: 1 0 None 0 2 None
+You hints intentional about all their white cards hints remaining: 5
+intentional has green 3, blue 2, green 5, white 2, green 1
+MOVE: 0 2 3 None None None
+intentional plays white 2 successfully! Board is now green 0, yellow 1, white 2, blue 1, red 0
+intentional now has green 3, blue 2, green 5, green 1, green 2
+MOVE: 1 1 None 0 None 1
+You hints intentional about all their 1 hints remaining: 4
+intentional has green 3, blue 2, green 5, green 1, green 2
+MOVE: 0 3 4 None None None
+intentional discards green 2
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2
+intentional now has green 3, blue 2, green 5, green 1, blue 4
+MOVE: 1 0 None 0 0 None
+You hints intentional about all their green cards hints remaining: 4
+intentional has green 3, blue 2, green 5, green 1, blue 4
+MOVE: 0 2 3 None None None
+intentional plays green 1 successfully! Board is now green 1, yellow 1, white 2, blue 1, red 0
+intentional now has green 3, blue 2, green 5, blue 4, red 1
+MOVE: 1 1 None 0 None 1
+You hints intentional about all their 1 hints remaining: 3
+intentional has green 3, blue 2, green 5, blue 4, red 1
+MOVE: 0 1 None 1 None 2
+intentional hints You about all their 2 hints remaining: 2
+You has blue 3, red 5, green 2, blue 2, red 3
+MOVE: 1 0 None 0 4 None
+You hints intentional about all their red cards hints remaining: 1
+intentional has green 3, blue 2, green 5, blue 4, red 1
+MOVE: 0 2 4 None None None
+intentional plays red 1 successfully! Board is now green 1, yellow 1, white 2, blue 1, red 1
+intentional now has green 3, blue 2, green 5, blue 4, yellow 4
+MOVE: 1 1 None 0 None 2
+You hints intentional about all their 2 hints remaining: 0
+intentional has green 3, blue 2, green 5, blue 4, yellow 4
+MOVE: 0 2 1 None None None
+intentional plays blue 2 successfully! Board is now green 1, yellow 1, white 2, blue 2, red 1
+intentional now has green 3, green 5, blue 4, yellow 4, white 4
+MOVE: 1 2 3 1 None None
+You plays blue 2 and fails. Board was green 1, yellow 1, white 2, blue 2, red 1
+You now has blue 3, red 5, green 2, red 3, yellow 2
+MOVE: 0 3 3 None None None
+intentional discards yellow 4
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4
+intentional now has green 3, green 5, blue 4, white 4, green 4
+MOVE: 1 3 1 1 None None
+You discards red 5
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5
+You now has blue 3, green 2, red 3, yellow 2, yellow 3
+MOVE: 0 1 None 1 None 2
+intentional hints You about all their 2 hints remaining: 1
+You has blue 3, green 2, red 3, yellow 2, yellow 3
+MOVE: 1 2 1 1 None None
+You plays green 2 successfully! Board is now green 2, yellow 1, white 2, blue 2, red 1
+You now has blue 3, red 3, yellow 2, yellow 3, green 3
+MOVE: 0 0 None 1 1 None
+intentional hints You about all their yellow cards hints remaining: 0
+You has blue 3, red 3, yellow 2, yellow 3, green 3
+MOVE: 1 2 2 1 None None
+You plays yellow 2 successfully! Board is now green 2, yellow 2, white 2, blue 2, red 1
+You now has blue 3, red 3, yellow 3, green 3, white 1
+MOVE: 0 3 3 None None None
+intentional discards white 4
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5, white 4
+intentional now has green 3, green 5, blue 4, green 4, red 3
+MOVE: 1 1 None 0 None 3
+You hints intentional about all their 3 hints remaining: 0
+intentional has green 3, green 5, blue 4, green 4, red 3
+MOVE: 0 2 0 None None None
+intentional plays green 3 successfully! Board is now green 3, yellow 2, white 2, blue 2, red 1
+intentional now has green 5, blue 4, green 4, red 3, white 1
+MOVE: 1 3 1 1 None None
+You discards red 3
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5, white 4, red 3
+You now has blue 3, yellow 3, green 3, white 1, red 2
+MOVE: 0 0 None 1 4 None
+intentional hints You about all their red cards hints remaining: 0
+You has blue 3, yellow 3, green 3, white 1, red 2
+MOVE: 1 2 4 1 None None
+You plays red 2 successfully! Board is now green 3, yellow 2, white 2, blue 2, red 2
+You now has blue 3, yellow 3, green 3, white 1, white 2
+MOVE: 0 3 2 None None None
+intentional discards green 4
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5, white 4, red 3, green 4
+intentional now has green 5, blue 4, red 3, white 1, yellow 4
+MOVE: 1 0 None 0 4 None
+You hints intentional about all their red cards hints remaining: 0
+intentional has green 5, blue 4, red 3, white 1, yellow 4
+MOVE: 0 2 2 None None None
+intentional plays red 3 successfully! Board is now green 3, yellow 2, white 2, blue 2, red 3
+intentional now has green 5, blue 4, white 1, yellow 4, yellow 3
+MOVE: 1 3 2 1 None None
+You discards green 3
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5, white 4, red 3, green 4, green 3
+You now has blue 3, yellow 3, white 1, white 2, yellow 1
+MOVE: 0 1 None 1 None 3
+intentional hints You about all their 3 hints remaining: 0
+You has blue 3, yellow 3, white 1, white 2, yellow 1
+MOVE: 1 2 1 1 None None
+You plays yellow 3 successfully! Board is now green 3, yellow 3, white 2, blue 2, red 3
+You now has blue 3, white 1, white 2, yellow 1, red 4
+MOVE: 0 3 4 None None None
+intentional discards yellow 3
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5, white 4, red 3, green 4, green 3, yellow 3
+intentional now has green 5, blue 4, white 1, yellow 4, red 2
+MOVE: 1 2 0 1 None None
+You plays blue 3 successfully! Board is now green 3, yellow 3, white 2, blue 3, red 3
+You now has white 1, white 2, yellow 1, red 4, red 4
+MOVE: 0 0 None 1 4 None
+intentional hints You about all their red cards hints remaining: 0
+You has white 1, white 2, yellow 1, red 4, red 4
+MOVE: 1 3 2 1 None None
+You discards yellow 1
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5, white 4, red 3, green 4, green 3, yellow 3, yellow 1
+You now has white 1, white 2, red 4, red 4, green 1
+MOVE: 0 1 None 1 None 4
+intentional hints You about all their 4 hints remaining: 0
+You has white 1, white 2, red 4, red 4, green 1
+MOVE: 1 2 3 1 None None
+You plays red 4 successfully! Board is now green 3, yellow 3, white 2, blue 3, red 4
+You now has white 1, white 2, red 4, green 1, red 1
+MOVE: 0 3 4 None None None
+intentional discards red 2
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5, white 4, red 3, green 4, green 3, yellow 3, yellow 1, red 2
+intentional now has green 5, blue 4, white 1, yellow 4, yellow 2
+MOVE: 1 3 2 1 None None
+You discards red 4
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5, white 4, red 3, green 4, green 3, yellow 3, yellow 1, red 2, red 4
+You now has white 1, white 2, green 1, red 1, white 4
+MOVE: 0 1 None 1 None 1
+intentional hints You about all their 1 hints remaining: 1
+You has white 1, white 2, green 1, red 1, white 4
+MOVE: 1 3 3 1 None None
+You discards red 1
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5, white 4, red 3, green 4, green 3, yellow 3, yellow 1, red 2, red 4, red 1
+You now has white 1, white 2, green 1, white 4, white 3
+MOVE: 0 1 None 1 None 3
+intentional hints You about all their 3 hints remaining: 1
+You has white 1, white 2, green 1, white 4, white 3
+MOVE: 1 1 None 0 None 4
+You hints intentional about all their 4 hints remaining: 0
+intentional has green 5, blue 4, white 1, yellow 4, yellow 2
+MOVE: 0 3 4 None None None
+intentional discards yellow 2
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5, white 4, red 3, green 4, green 3, yellow 3, yellow 1, red 2, red 4, red 1, yellow 2
+intentional now has green 5, blue 4, white 1, yellow 4, white 5
+MOVE: 1 3 2 1 None None
+You discards green 1
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5, white 4, red 3, green 4, green 3, yellow 3, yellow 1, red 2, red 4, red 1, yellow 2, green 1
+You now has white 1, white 2, white 4, white 3, yellow 5
+MOVE: 0 1 None 1 None 2
+intentional hints You about all their 2 hints remaining: 1
+You has white 1, white 2, white 4, white 3, yellow 5
+MOVE: 1 0 None 0 1 None
+You hints intentional about all their yellow cards hints remaining: 0
+intentional has green 5, blue 4, white 1, yellow 4, white 5
+MOVE: 0 2 3 None None None
+intentional plays yellow 4 successfully! Board is now green 3, yellow 4, white 2, blue 3, red 4
+intentional now has green 5, blue 4, white 1, white 5, blue 4
+MOVE: 1 3 1 1 None None
+You discards white 2
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5, white 4, red 3, green 4, green 3, yellow 3, yellow 1, red 2, red 4, red 1, yellow 2, green 1, white 2
+You now has white 1, white 4, white 3, yellow 5, red 1
+MOVE: 0 0 None 1 2 None
+intentional hints You about all their white cards hints remaining: 0
+You has white 1, white 4, white 3, yellow 5, red 1
+MOVE: 1 3 0 1 None None
+You discards white 1
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5, white 4, red 3, green 4, green 3, yellow 3, yellow 1, red 2, red 4, red 1, yellow 2, green 1, white 2, white 1
+You now has white 4, white 3, yellow 5, red 1, white 3
+MOVE: 0 0 None 1 2 None
+intentional hints You about all their white cards hints remaining: 0
+You has white 4, white 3, yellow 5, red 1, white 3
+MOVE: 1 2 1 1 None None
+You plays white 3 successfully! Board is now green 3, yellow 4, white 3, blue 3, red 4
+You now has white 4, yellow 5, red 1, white 3, green 1
+MOVE: 0 2 1 None None None
+intentional plays blue 4 successfully! Board is now green 3, yellow 4, white 3, blue 4, red 4
+intentional now has green 5, white 1, white 5, blue 4, green 4
+MOVE: 1 3 1 1 None None
+You discards yellow 5
+trash is now blue 1, blue 3, blue 5, yellow 1, green 2, blue 2, yellow 4, red 5, white 4, red 3, green 4, green 3, yellow 3, yellow 1, red 2, red 4, red 1, yellow 2, green 1, white 2, white 1, yellow 5
+You now has white 4, red 1, white 3, green 1, blue 1
+MOVE: 0 1 None 1 None 1
+intentional hints You about all their 1 hints remaining: 0
+You has white 4, red 1, white 3, green 1, blue 1
+MOVE: 1 2 2 1 None None
+You plays white 3 and fails. Board was green 3, yellow 4, white 3, blue 4, red 4
+You now has white 4, red 1, green 1, blue 1
+Score 18

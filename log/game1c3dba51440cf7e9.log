@@ -1,0 +1,56 @@
+Old GID: 3155fcc452af5a94
+Treatment: ('full', 3883)
+[(0, 2), (2, 4), (1, 1), (0, 1), (2, 3), (3, 2), (1, 3), (3, 2), (0, 1), (0, 3), (2, 1), (2, 1), (1, 2), (4, 4), (4, 1), (4, 4), (1, 4), (1, 3), (2, 4), (2, 5), (1, 1), (4, 1), (4, 5), (4, 1), (1, 1), (1, 4), (3, 1), (0, 5), (3, 1), (4, 2), (4, 3), (3, 1), (2, 2), (3, 3), (1, 2), (2, 3), (4, 3), (1, 5), (0, 2), (2, 2)]
+MOVE: 0 0 None 1 2 None
+full hints You about all their white cards hints remaining: 7
+You has blue 5, green 4, green 3, blue 3, white 1
+MOVE: 1 2 4 1 None None
+You plays white 1 successfully! Board is now green 0, yellow 0, white 1, blue 0, red 0
+You now has blue 5, green 4, green 3, blue 3, green 2
+MOVE: 0 3 0 None None None
+full discards green 1
+trash is now green 1
+full now has green 4, red 2, blue 4, blue 4, white 4
+MOVE: 1 3 0 1 None None
+You discards blue 5
+trash is now green 1, blue 5
+You now has green 4, green 3, blue 3, green 2, yellow 1
+MOVE: 0 0 None 1 1 None
+full hints You about all their yellow cards hints remaining: 7
+You has green 4, green 3, blue 3, green 2, yellow 1
+MOVE: 1 2 4 1 None None
+You plays yellow 1 successfully! Board is now green 0, yellow 1, white 1, blue 0, red 0
+You now has green 4, green 3, blue 3, green 2, green 1
+MOVE: 0 1 None 1 None 1
+full hints You about all their 1 hints remaining: 6
+You has green 4, green 3, blue 3, green 2, green 1
+MOVE: 1 2 4 1 None None
+You plays green 1 successfully! Board is now green 1, yellow 1, white 1, blue 0, red 0
+You now has green 4, green 3, blue 3, green 2, white 3
+MOVE: 0 1 None 1 None 2
+full hints You about all their 2 hints remaining: 5
+You has green 4, green 3, blue 3, green 2, white 3
+MOVE: 1 2 3 1 None None
+You plays green 2 successfully! Board is now green 2, yellow 1, white 1, blue 0, red 0
+You now has green 4, green 3, blue 3, white 3, blue 2
+MOVE: 0 0 None 1 2 None
+full hints You about all their white cards hints remaining: 4
+You has green 4, green 3, blue 3, white 3, blue 2
+MOVE: 1 2 3 1 None None
+You plays white 3 and fails. Board was green 2, yellow 1, white 1, blue 0, red 0
+You now has green 4, green 3, blue 3, blue 2, yellow 3
+MOVE: 0 3 0 None None None
+full discards green 4
+trash is now green 1, blue 5, white 3, green 4
+full now has red 2, blue 4, blue 4, white 4, blue 2
+MOVE: 1 2 4 1 None None
+You plays yellow 3 and fails. Board was green 2, yellow 1, white 1, blue 0, red 0
+You now has green 4, green 3, blue 3, blue 2, green 1
+MOVE: 0 3 0 None None None
+full discards red 2
+trash is now green 1, blue 5, white 3, green 4, yellow 3, red 2
+full now has blue 4, blue 4, white 4, blue 2, green 3
+MOVE: 1 2 4 1 None None
+You plays green 1 and fails. Board was green 2, yellow 1, white 1, blue 0, red 0
+You now has green 4, green 3, blue 3, blue 2, white 1
+Score 4

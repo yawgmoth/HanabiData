@@ -1,0 +1,21 @@
+Treatment: ('outer', 5)
+[(1, 2), (1, 3), (1, 1), (0, 1), (1, 1), (4, 5), (1, 4), (0, 3), (2, 3), (3, 3), (2, 1), (3, 1), (4, 3), (3, 2), (4, 1), (1, 3), (0, 2), (2, 5), (4, 4), (2, 1), (2, 4), (0, 4), (0, 4), (0, 1), (4, 1), (1, 5), (0, 5), (1, 4), (0, 2), (4, 4), (2, 3), (3, 5), (2, 1), (0, 1), (4, 1), (3, 2), (4, 2), (3, 4), (3, 3), (3, 1)]
+MOVE: 0 0 None 1 1 None
+outer hints You about all their yellow cards hints remaining: 7
+You has white 2, red 2, red 3, yellow 2, yellow 1
+MOVE: 1 2 1 1 None None
+You plays red 2 and fails. Board was green 0, yellow 0, white 0, blue 0, red 0
+You now has white 2, red 3, yellow 2, yellow 1, yellow 2
+MOVE: 0 1 None 1 None 1
+outer hints You about all their 1 hints remaining: 6
+You has white 2, red 3, yellow 2, yellow 1, yellow 2
+MOVE: 1 2 1 1 None None
+You plays red 3 and fails. Board was green 0, yellow 0, white 0, blue 0, red 0
+You now has white 2, yellow 2, yellow 1, yellow 2, yellow 3
+MOVE: 0 1 None 1 None 2
+outer hints You about all their 2 hints remaining: 5
+You has white 2, yellow 2, yellow 1, yellow 2, yellow 3
+MOVE: 1 2 1 1 None None
+You plays yellow 2 and fails. Board was green 0, yellow 0, white 0, blue 0, red 0
+You now has white 2, yellow 1, yellow 2, yellow 3, yellow 1
+Score 0

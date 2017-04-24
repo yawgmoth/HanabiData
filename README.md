@@ -2,6 +2,8 @@
 
 This repository contains game logs for a browser-based implementation of [Hanabi](https://boardgamegeek.com/boardgame/98778/hanabi) obtained from an experiment we performed to test the performance of our Intentional Hanabi AI. The data set itself can be of interest to researchers or other interested individuals who want to improve upon our work, or implement a completely different AI for Hanabi. Note that our implementation can also be used to watch replays of the game logs available in this data set, and is available [on Github](https://github.com/yawgmoth/pyhanabi).
 
+Note that some of these game logs were obtained after the writing of our paper "An Intentional AI for Hanabi" (Eger, Markus and Martens, Chris and Alfaro Cordoba, Marcela, to appear). To obtain the (public) game logs that were available at that time, click [here](https://github.com/yawgmoth/HanabiData/tree/paper). 
+
 ## Format
 
 The data set consists of game logs and survey answers from participants in our experiment that agreed to the publication of that data. Every participant filled out the survey only once, but could play multiple times. Each game got a unique ID and is in a file `game<ID>.log` where `<ID>` is replaced with that ID. Additionally, for the first game every participant played, there is a file `survey<ID>.log` containing their survey answers. The survey questions were as follows:
@@ -107,8 +109,8 @@ Finally, we provide `extract.py` to demonstrate how to extract the data from the
 
 ## Contributors
 
-The Hanabi AIs and browser-based UI were implemented by Markus Eger, under the supervison of Dr. Chris Martens in the Principles of Expressive Machines Lab at North Carolina State University. Learn more about our lab on [our website](https://sites.google.com/ncsu.edu/poem/)
+The Hanabi AIs and browser-based UI were implemented by Markus Eger, under the supervision of Dr. Chris Martens in the Principles of Expressive Machines Lab at North Carolina State University. Learn more about our lab on [our website](https://sites.google.com/ncsu.edu/poem/)
 
 ## License
 
-This work is licensed under a Creative Commons Attribution 4.0 International License. For more information refer to [the license file](LICENSE) and [https://creativecommons.org/licenses/by/4.0/]
+This work is licensed under a Creative Commons Attribution 4.0 International License. For more information refer to [the license file](LICENSE) and [Creative Commons](https://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,38 @@
+Old GID: 97ee54c2e2baec26
+Treatment: ('intentional', 4242)
+[(4, 3), (1, 3), (0, 1), (4, 4), (1, 1), (3, 3), (3, 1), (4, 1), (1, 1), (0, 2), (4, 1), (3, 1), (2, 4), (2, 2), (2, 4), (3, 4), (3, 2), (0, 5), (3, 5), (1, 2), (0, 4), (4, 5), (2, 1), (4, 2), (4, 1), (1, 1), (0, 3), (3, 4), (0, 2), (2, 3), (2, 2), (0, 3), (3, 2), (2, 1), (0, 4), (1, 2), (1, 4), (0, 1), (2, 1), (4, 2)]
+MOVE: 0 1 None 1 None 1
+intentional hints You about all their 1 hints remaining: 7
+You has blue 1, blue 3, red 3, yellow 4, white 3
+MOVE: 1 2 0 1 None None
+You plays blue 1 successfully! Board is now green 0, yellow 0, white 0, blue 1, red 0
+You now has blue 3, red 3, yellow 4, white 3, red 3
+MOVE: 0 3 0 None None None
+intentional discards white 5
+trash is now white 5
+intentional now has yellow 3, green 1, red 4, yellow 5, yellow 3
+MOVE: 1 0 None 0 0 None
+You hints intentional about all their green cards hints remaining: 7
+intentional has yellow 3, green 1, red 4, yellow 5, yellow 3
+MOVE: 0 3 0 None None None
+intentional discards yellow 3
+trash is now white 5, yellow 3
+intentional now has green 1, red 4, yellow 5, yellow 3, green 1
+MOVE: 1 2 4 1 None None
+You plays red 3 and fails. Board was green 0, yellow 0, white 0, blue 1, red 0
+You now has blue 3, red 3, yellow 4, white 3, red 4
+MOVE: 0 3 4 None None None
+intentional discards green 1
+trash is now white 5, yellow 3, red 3, green 1
+intentional now has green 1, red 4, yellow 5, yellow 3, yellow 1
+MOVE: 1 2 4 1 None None
+You plays red 4 and fails. Board was green 0, yellow 0, white 0, blue 1, red 0
+You now has blue 3, red 3, yellow 4, white 3, blue 3
+MOVE: 0 3 4 None None None
+intentional discards yellow 1
+trash is now white 5, yellow 3, red 3, green 1, red 4, yellow 1
+intentional now has green 1, red 4, yellow 5, yellow 3, blue 1
+MOVE: 1 2 4 1 None None
+You plays blue 3 and fails. Board was green 0, yellow 0, white 0, blue 1, red 0
+You now has blue 3, red 3, yellow 4, white 3, red 1
+Score 1

@@ -1,0 +1,65 @@
+Old GID: 711064fc6f8c3ef4
+Treatment: ('full', 2732)
+[(2, 1), (2, 4), (3, 2), (2, 1), (0, 2), (3, 2), (0, 1), (4, 3), (0, 3), (4, 3), (4, 1), (1, 4), (4, 4), (3, 4), (1, 1), (1, 3), (2, 1), (4, 2), (1, 4), (4, 1), (0, 4), (3, 1), (2, 5), (0, 4), (2, 4), (0, 1), (1, 1), (2, 2), (0, 5), (2, 3), (1, 2), (1, 2), (4, 4), (4, 5), (3, 5), (3, 3), (0, 3), (1, 1), (1, 3), (3, 3)]
+MOVE: 0 1 None 1 None 1
+full hints You about all their 1 hints remaining: 7
+You has white 2, yellow 5, green 1, green 2, red 1
+MOVE: 1 2 2 1 None None
+You plays green 1 successfully! Board is now green 1, yellow 0, white 0, blue 0, red 0
+You now has white 2, yellow 5, green 2, red 1, white 1
+MOVE: 0 1 None 1 None 1
+full hints You about all their 1 hints remaining: 6
+You has white 2, yellow 5, green 2, red 1, white 1
+MOVE: 1 2 3 1 None None
+You plays red 1 successfully! Board is now green 1, yellow 0, white 0, blue 0, red 1
+You now has white 2, yellow 5, green 2, white 1, white 4
+MOVE: 0 0 None 1 0 None
+full hints You about all their green cards hints remaining: 5
+You has white 2, yellow 5, green 2, white 1, white 4
+MOVE: 1 2 2 1 None None
+You plays green 2 successfully! Board is now green 2, yellow 0, white 0, blue 0, red 1
+You now has white 2, yellow 5, white 1, white 4, blue 2
+MOVE: 0 3 0 None None None
+full discards white 3
+trash is now white 3
+full now has red 2, blue 1, blue 1, blue 4, white 1
+MOVE: 1 1 None 0 None 1
+You hints full about all their 1 hints remaining: 5
+full has red 2, blue 1, blue 1, blue 4, white 1
+MOVE: 0 2 1 None None None
+full plays blue 1 successfully! Board is now green 2, yellow 0, white 0, blue 1, red 1
+full now has red 2, blue 1, blue 4, white 1, green 2
+MOVE: 1 0 None 0 3 None
+You hints full about all their blue cards hints remaining: 4
+full has red 2, blue 1, blue 4, white 1, green 2
+MOVE: 0 2 2 None None None
+full plays blue 4 and fails. Board was green 2, yellow 0, white 0, blue 1, red 1
+full now has red 2, blue 1, white 1, green 2, blue 2
+MOVE: 1 1 None 0 None 2
+You hints full about all their 2 hints remaining: 3
+full has red 2, blue 1, white 1, green 2, blue 2
+MOVE: 0 2 0 None None None
+full plays red 2 successfully! Board is now green 2, yellow 0, white 0, blue 1, red 2
+full now has blue 1, white 1, green 2, blue 2, green 1
+MOVE: 1 0 None 0 2 None
+You hints full about all their white cards hints remaining: 2
+full has blue 1, white 1, green 2, blue 2, green 1
+MOVE: 0 2 1 None None None
+full plays white 1 successfully! Board is now green 2, yellow 0, white 1, blue 1, red 2
+full now has blue 1, green 2, blue 2, green 1, red 3
+MOVE: 1 0 None 0 3 None
+You hints full about all their blue cards hints remaining: 1
+full has blue 1, green 2, blue 2, green 1, red 3
+MOVE: 0 2 2 None None None
+full plays blue 2 successfully! Board is now green 2, yellow 0, white 1, blue 2, red 2
+full now has blue 1, green 2, green 1, red 3, green 3
+MOVE: 1 0 None 0 0 None
+You hints full about all their green cards hints remaining: 0
+full has blue 1, green 2, green 1, red 3, green 3
+MOVE: 0 2 2 None None None
+full plays green 1 and fails. Board was green 2, yellow 0, white 1, blue 2, red 2
+full now has blue 1, green 2, red 3, green 3, red 3
+MOVE: 1 2 2 1 None None
+You plays white 1 and fails. Board was green 2, yellow 0, white 1, blue 2, red 2
+You now has white 2, yellow 5, white 4, blue 2, red 1
+Score 7
