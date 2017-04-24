@@ -107,8 +107,8 @@ Finally, we provide `extract.py` to demonstrate how to extract the data from the
 
 ## Contributors
 
-The Hanabi AIs and browser-based UI were implemented by Markus Eger, under the supervison of Dr. Chris Martens in the Principles of Expressive Machines Lab at North Carolina State University. Learn more about our lab on [our website](https://sites.google.com/ncsu.edu/poem/)
+The Hanabi AIs and browser-based UI were implemented by Markus Eger, under the supervision of Dr. Chris Martens in the Principles of Expressive Machines Lab at North Carolina State University. Learn more about our lab on [our website](https://sites.google.com/ncsu.edu/poem/)
 
 ## License
 
-This work is licensed under a Creative Commons Attribution 4.0 International License. For more information refer to [the license file](LICENSE) and [https://creativecommons.org/licenses/by/4.0/]
+This work is licensed under a Creative Commons Attribution 4.0 International License. For more information refer to [the license file](LICENSE) and [Creative Commons](https://creativecommons.org/licenses/by/4.0/)
