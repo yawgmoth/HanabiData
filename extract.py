@@ -4,7 +4,7 @@ import sys
 games = {}
 participants = {}
 
-cleanup = True
+cleanup = False
 
 variables = {
 "bgg": ["new", "dabbling", "intermediate", "expert"],
