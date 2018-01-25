@@ -2,7 +2,8 @@
 
 This repository contains game logs for a browser-based implementation of [Hanabi](https://boardgamegeek.com/boardgame/98778/hanabi) obtained from an experiment we performed to test the performance of our Intentional Hanabi AI. The data set itself can be of interest to researchers or other interested individuals who want to improve upon our work, or implement a completely different AI for Hanabi. Note that our implementation can also be used to watch replays of the game logs available in this data set, and is available [on Github](https://github.com/yawgmoth/pyhanabi).
 
-Note that some of these game logs were obtained after the writing of our paper "An Intentional AI for Hanabi" (Eger, Markus and Martens, Chris and Alfaro Cordoba, Marcela, to appear). To obtain the (public) game logs that were available at that time, click [here](https://github.com/yawgmoth/HanabiData/tree/paper). 
+Note that some of these game logs were obtained after the writing of our paper "An Intentional AI for Hanabi" (Eger, Markus and Martens, Chris and Alfaro Cordoba, Marcela, 2017 IEEE
+Conference on Computational Intelligence and Games (CIG)). To obtain the (public) game logs that were available at that time, click [here](https://github.com/yawgmoth/HanabiData/tree/paper). 
 
 ## Format
 
