@@ -106,7 +106,7 @@ where `<Player>` is the index of the player performing the action, and `<Action>
 
 The game log concludes with a line starting with `Score:` followed by the final score the players reached. For an example on how to use the game log files to replay games, refer to [our implementation](https://github.com/yawgmoth/pyhanabi)
 
-Finally, we provide `extract.py` to demonstrate how to extract the data from the survey files and game logs and write them to csv suitable for processing with e.g. R.
+Finally, we provide `extract.py` to demonstrate how to extract the data from the survey files and game logs and write them to csv suitable for processing with e.g. R. Also, in [this file](https://github.com/yawgmoth/HanabiData/blob/master/hanabi_analysis.R), you can find the R code that we used for the results in the paper. Please note that the discrepancies are due to not every participant could be included in this repository, since they did not consent.
 
 ## Contributors
 
